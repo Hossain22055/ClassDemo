@@ -1,0 +1,13 @@
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.exe
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.deps.json
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.json
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.dev.json
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.dll
+C:\Users\hossa\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.pdb
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csprojAssemblyReference.cache
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfo.cs
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.dll
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.pdb
+C:\Users\hossa\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.genruntimeconfig.cache
